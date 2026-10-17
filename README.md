@@ -2,4 +2,4 @@
 
 This is Lab 3 for Ennmore Baltimore.
 
-Tested in: Opera GX and Edge
+Tested in: Opera GX and Microsoft Edge
